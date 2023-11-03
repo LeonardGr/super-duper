@@ -437,7 +437,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"test.tmj#from-office"
+                         "value":"conference.tmj#from-office"
                         }],
                  "rotation":0,
                  "visible":true,
